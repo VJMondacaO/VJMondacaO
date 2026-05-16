@@ -1,63 +1,68 @@
-# Víctor Mondaca Oyarzún
+# Víctor Mondaca
 
-💻 **Técnico Analista Programador**  
-📊 **Técnico de Nivel Superior en Administración de Empresas**  
-📍 Región del Maule, Chile  
-🚀 Enfocado en desarrollo de software, arquitectura web y soluciones digitales para pymes e instituciones públicas.
-
-Desarrollador con formación técnica en **programación y administración**, con experiencia en **aplicaciones web modernas**, integraciones backend–frontend y despliegues en **AWS**. Mi perfil combina una mirada tecnológica con comprensión de procesos administrativos y de negocio, permitiéndome construir soluciones alineadas a necesidades reales.
+Desarrollador de software enfocado en automatización, integraciones y plataformas empresariales.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Sobre mí
 
-### Lenguajes & Frameworks
-- **TypeScript / JavaScript**
-- **Python**
-- **Angular**
-- **NestJS**
-- **Django**
-- **HTML5, CSS3**
+Actualmente trabajo en desarrollo de soluciones orientadas a automatización de procesos, integraciones y plataformas comerciales, participando en proyectos relacionados con Salesforce, sistemas inmobiliarios, automatización vía WhatsApp y aplicaciones web full stack.
 
-### Backend & Bases de Datos
-- **Node.js**
-- **REST APIs**
-- **MySQL**
-- **PostgreSQL**
-- **MongoDB**
-
-### Cloud & DevOps
-- **AWS (EC2, S3, RDS)**
-- **Nginx**
-- **PM2**
-- **GitHub Actions**
-- **Linux / Windows Server**
-
-### Otros
-- **Git & GitHub**
-- **Scrum / metodologías ágiles**
-- **Integraciones con WordPress**
-- **Dashboards y sistemas de gestión**
-- **Análisis de procesos administrativos**
+Me interesa especialmente la arquitectura práctica, optimización de flujos operacionales y el desarrollo de herramientas que conecten negocio y tecnología.
 
 ---
 
-## 🎯 Intereses Profesionales
+## Tecnologías
+
+### Backend & Plataforma
+- Node.js
+- NestJS
+- TypeScript
+- MongoDB
+- Turso
+- Docker
+- AWS
+
+### Frontend
+- React
+- Astro
+- TailwindCSS
+- Shopify Hydrogen
+
+### Salesforce
+- Apex
+- Lightning Web Components (LWC)
+- Flows
+- Integraciones
+- Automatizaciones
+
+### Infraestructura & Deploy
+- Vercel
+- Cloudflare
+- GitHub Actions
+
+---
+
+## Actualmente trabajando en
+
+- Automatización de procesos comerciales y operacionales
+- Integraciones entre Salesforce y plataformas externas
+- Sistemas de mensajería y automatización vía WhatsApp
+- Aplicaciones web full stack
+- Arquitectura y despliegue de servicios
+- Optimización de flujos y herramientas internas
+
+---
+
+## Intereses
 
 - Arquitectura de software
-- Cloud Computing (AWS)
-- Desarrollo backend robusto
-- Soluciones tecnológicas para pymes
-- Digitalización de procesos administrativos
-- Transformación digital en el sector público
-
----
-
-## 📈 Actualmente
-
-- 📚 Perfeccionándome en **AWS Certified Solutions Architect – Associate**
-- 🏗️ Desarrollando proyectos full stack
-- 🧠 Fortaleciendo prácticas de seguridad y escalabilidad
+- Automatización
+- Integraciones
+- DevOps
+- Sistemas escalables
+- Inteligencia artificial aplicada
+- Optimización de procesos
 
 ---
 
@@ -68,5 +73,3 @@ Desarrollador con formación técnica en **programación y administración**, co
 - Email: [contacto@victormondaca.com](mailto:contacto@victormondaca.com)
 
 ---
-
-⭐ Gracias por visitar mi perfil.
